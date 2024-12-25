@@ -3,5 +3,6 @@ import { source } from "./source.tsx"
 
 export const metadataImage = createMetadataImage({
 	imageRoute: "/docs-og",
+	filename: "/image/openGraphBackground.png",
 	source
 })

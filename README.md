@@ -14,7 +14,7 @@ Check out [how it works](#how) or [scroll slightly](#install) to read about inst
 
 ## Install
 
-<img src="./ark/docs/src/assets/npm.svg" alt="Npm Icon" height="16px" /> <code>npm install arktype</code>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="Npm Icon" height="16px" /> <code>npm install arktype</code>
 <sub>(or whatever package manager you prefer)</sub>
 <br />
 
